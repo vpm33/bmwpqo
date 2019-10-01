@@ -1,5 +1,6 @@
 import java.util.*;
 import java.lang.Math;
+import java.io.*;
 class FIBEASY
 {
     static long[] f = new long[100];
